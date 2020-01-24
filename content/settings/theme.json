@@ -1,0 +1,40 @@
+{
+  "color": {
+    "black": "#0A0A0A",
+    "white": "#f7f7f7",
+    "primary": "#DD2C00",
+    "secondary": "#FF6434"
+  },
+  "easing": "cubic-bezier(0.215, 0.610, 0.355, 1.000)",
+  "breakpoints": {
+    "small": "600px",
+    "medium": "1200px",
+    "large": "1600px",
+    "huge": "2200px"
+  },
+  "radius": {
+    "small": "3px"
+  },
+  "header": {
+    "overline": true,
+    "transparent": true,
+    "height": "3.25rem",
+    "underline": true
+  },
+  "hero": {
+    "image": "../images/reno-light.jpg",
+    "large": false,
+    "overlay": true,
+    "overlap": "8rem",
+    "parallax": true
+  },
+  "typography": {
+    "uppercaseH2": true
+  },
+  "menu": {
+    "style": "glow"
+  },
+  "__gatsby_resolved": {
+    "fileRelativePath": "/content/settings/theme.json"
+  }
+}

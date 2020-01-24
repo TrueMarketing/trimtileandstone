@@ -1,0 +1,23 @@
+{
+  "title": "Services",
+  "path": "/services",
+  "blocks": [
+    {
+      "title": "",
+      "center": false,
+      "underline": true,
+      "_template": "TitleBlock",
+      "content": ""
+    },
+    {
+      "content": "## Exterior Services 🏡\n\n* Soffit repair and installation\n* Eavestrough installation\n* Fence construction or repair\n* Deck construction or staining\n\n## Interior Services 🚪\n\n* Framing\n* Drywall\n* Painting\n* Insulation\n\n## Roofing 🌤\n\n* Asphalt shingle roofing\n* Steel roofing\n\nGot a special project in mind? Send us a [message](/contact) and let's set up a meeting.",
+      "center": false,
+      "_template": "ContentBlock"
+    }
+  ],
+  "hero": {
+    "image": "../images/new-house.jpg",
+    "large": false,
+    "headline": "Interior, Exterior, and Roofing Services"
+  }
+}

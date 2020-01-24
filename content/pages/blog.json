@@ -1,0 +1,11 @@
+{
+  "path": "/blog",
+  "title": "Services",
+  "pageType": "list",
+  "listType": "post",
+  "hero": {
+    "image": "../images/reno-exterior.jpg",
+    "large": true,
+    "overlay": true
+  }
+}
