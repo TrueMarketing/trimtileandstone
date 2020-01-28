@@ -10,23 +10,23 @@
     },
     {
       "_template": "ContentBlock",
-      "content": "Are you thinking about finishing your basement, or remodelling your kitchen or bathroom?\n\nIf you want the quality, design, and expertise that only come with experience, Trim Tile and Stone is right for you.\n\n## Why choose Trim Tile and Stone?\n\nIf you're thinking about renovations, then you are probably already thinking about one of your biggest hurdles: budget. While many contractors will tell you what your budget needs to be, we respect your circumstances, and will work within your budget.\n\nWhen it comes to design, we work with you to help you plan out the most valuable use of your space, but we don't push our own opinions on you—once again, we respect your ability to make up your own mind.",
+      "content": "Are you thinking about finishing your basement, or remodelling your kitchen or bathroom?\n\nIf you want the quality, design, and expertise that only come with experience, Trim Tile and Stone is right for you.\n\n## Why choose Trim Tile and Stone?\n\nIf you're thinking about renovations, then you are probably already thinking about one of your biggest hurdles: budget. While many contractors will tell you what your budget needs to be, we respect your circumstances, and will work within your budget.\n\nWhen it comes to design, we work with you to help you plan out the most valuable use of your space, but we don't push our own opinions on you—once again, we respect your ability to make up your own mind.\n\n***",
       "center": false
     },
     {
       "image": "../images/melsi.jpg",
       "_template": "ImageBlock",
-      "content": ""
+      "content": "***"
     },
     {
-      "content": "## Offerings\n\nWe specialize in basements, kitchens, bathrooms, and more. For more information see our [services page](/services).\n\n## CTA section\n\nGeneral inquiries are welcome any time, and we offer free estimates across the GTA. Get in touch by phone or email on our [contact page](/contact).",
+      "content": "## Offerings\n\nWe specialize in basements, kitchens, bathrooms, and more. For more information see our [services page](/services).\n\n## CTA section\n\nGeneral inquiries are welcome any time, and we offer free estimates across the GTA. Get in touch by phone or email on our [contact page](/contact).\n\n***",
       "center": false,
       "_template": "ContentBlock"
     },
     {
       "image": "../images/melsi-dog.jpg",
       "_template": "ImageBlock",
-      "content": ""
+      "content": "***"
     }
   ],
   "displayTitle": true
