@@ -16,6 +16,13 @@ export function Image({ data }) {
 
 const ImageWrapper = styled.div`
   overflow: hidden;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-width: 2px;
+  border-color: #dd2c00;
 `
 
 export const ImageBlock = {
