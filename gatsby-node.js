@@ -52,7 +52,7 @@ exports.onCreateNode = ({
 
       createNodeField({
         node,
-        name: `markdownContent___NODE`, // Before the ___NODE: Name of the new fields
+        name: ``, // Before the ___NODE: Name of the new fields
         value: markdownHost.id, // Connects both nodes
       })
 
