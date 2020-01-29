@@ -16,7 +16,7 @@
     {
       "image": "../images/melsi.jpg",
       "_template": "ImageBlock",
-      "content": ""
+      "content": "_"
     },
     {
       "content": "## Services\n\nWe specialize in basements, kitchens, bathrooms, and more. For more information see our [services page](/services).\n\n## Inquiries\n\nGeneral inquiries are welcome any time, and we offer free estimates across the GTA. Get in touch by phone or email on our [contact page](/contact).\n\n***",
@@ -26,7 +26,7 @@
     {
       "image": "../images/melsi-dog.jpg",
       "_template": "ImageBlock",
-      "content": ""
+      "content": "_"
     }
   ],
   "displayTitle": true
