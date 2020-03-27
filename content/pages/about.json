@@ -29,5 +29,11 @@
       "content": "_"
     }
   ],
-  "displayTitle": true
+  "displayTitle": true,
+  "hero": {
+    "image": "../images/Resized_Wilmot_Cres-5001_5160.jpg",
+    "headline": "About Trim Tile and Stone",
+    "textline": "Ultra-high quality finishing and remodelling for Burlington and the GTA",
+    "large": true
+  }
 }

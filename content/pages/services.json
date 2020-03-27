@@ -16,8 +16,9 @@
     }
   ],
   "hero": {
-    "image": "../images/36149459_472412819850376_5791818211028631552_n.jpg",
-    "large": false,
-    "headline": "Home Renovation Services"
+    "image": "../images/Resized_Mariposa_Drive-3001_86.jpg",
+    "large": true,
+    "headline": "Home Renovation Services",
+    "textline": "Kitchens, Bathrooms, and Basements"
   }
 }

@@ -56,6 +56,14 @@
   "hero": {
     "headline": "Inquiries & Estimates",
     "textline": "Get in touch with Trim Tile and Stone",
-    "image": "../images/metal-roof.jpg"
+    "image": "../images/Resized_047A6935001_5888.jpg",
+    "large": true,
+    "ctas": [
+      {
+        "primary": true,
+        "label": "Call now",
+        "link": "tel:12898285754"
+      }
+    ]
   }
 }
