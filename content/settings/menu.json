@@ -1,10 +1,6 @@
 {
   "menuItems": [
     {
-      "label": "☎️ Call Now",
-      "link": "tel:12898285754"
-    },
-    {
       "label": "Home",
       "link": "/"
     },
@@ -14,11 +10,20 @@
     },
     {
       "label": "Services",
-      "link": "/services"
+      "link": "/services",
+      "subMenu": []
+    },
+    {
+      "link": "/portfolio",
+      "label": "Portfolio"
     },
     {
       "label": "Contact",
       "link": "/contact"
+    },
+    {
+      "label": "☎️ Call Now",
+      "link": "tel:12898285754"
     }
   ],
   "__gatsby_resolved": {
